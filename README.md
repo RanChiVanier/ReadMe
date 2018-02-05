@@ -1,23 +1,3 @@
 # ReadMe
 
-I`m a student in grade 12 and most of my experience comes from grade 10 and grade 11 computer science classes. I`m comfortable with the languages Pascal and Turing. 
-
-Programming Experience?
-
-Most of my  
-
-Languages that your comfortable in?
-
-I`m comfortable with Pascal and Turing.
-
-What are your future aspirations in computer programming?
-
-Computer science is the career path I`m aiming to pursue. I`ve applied t
-
-What do you like best about Computer Programming?
-
-I like the problem solving part and the satisfaction of solving challenging problems. I also like how computer programming makes me think
-
-What do you like least about Computer Programming?
-
-I don`t like the repitition and tediousness involved in coding. 
+I`m a student in grade 12 and most of computer programming my experience comes from grade 10 and grade 11 computer science classes. I`m comfortable writing programs with the languages Pascal and Turing. Computer science is the career that I'm aiming to pursue, I've applied the computer science programs for university. My favourite part about computer science is the problem solving aspect, I like the satisfaction of solving challenging problems. However, one part of computer science that I don't like is the repetitive nature and looking for bugs can be quite frustrating.  
